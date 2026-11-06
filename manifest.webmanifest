@@ -1,0 +1,15 @@
+{
+  "name": "Le Pursuit",
+  "short_name": "Le Pursuit",
+  "description": "Never miss twice. A daily habit tracker.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0f0ee",
+  "theme_color": "#f0f0ee",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
